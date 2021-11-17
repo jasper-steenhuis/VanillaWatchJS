@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+@font-face {
+    font-family: DIGITALDREAM;
+    src: url(fonts/DIGITALDREAM.ttf);
+}
+#stopwatch {
+    position: relative;
+    margin-left: 25%;
+    margin-right: 50%;
+    z-index: 10;
+}
+#time {
+    font-family:DIGITALDREAM;
+
+    position: absolute;
+    margin-top: 320pt;
+    margin-left: 145pt;
+}
